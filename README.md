@@ -1,35 +1,39 @@
 # Hi, I'm Salma Ajdakar 👋
 
-### Engineering Student | ENSEA, France
+### Engineering Student at ENSEA | Signal Processing & Computer Science
 
-I'm a second-year engineering student at **ENSEA (École Nationale Supérieure de l'Électronique et de ses Applications)**, majoring in **Signal Processing and Computer Science**.
+I'm a second-year engineering student at **ENSEA (École Nationale Supérieure de l'Électronique et de ses Applications)** in France, specializing in **Signal Processing and Computer Science**.
 
-I'm passionate about **embedded systems, digital electronics, signal processing and artificial intelligence**. I enjoy working on technical projects that combine software development with hardware design.
+I'm interested in **embedded systems, digital electronics, signal processing, and artificial intelligence**, particularly projects combining hardware design, programming, and intelligent systems.
 
-I'm particularly interested in international research opportunities involving **FPGA design, AI hardware and intelligent embedded systems**.
+I'm currently exploring opportunities for an **international engineering or research internship in 2027**, with a particular interest in **FPGA design, AI hardware, and intelligent embedded systems**.
 
 ## Technical Skills
 
-**Programming:** Python, Java, MATLAB, SQL, C
+**Programming:** Python, C, Java, MATLAB, SQL
 
-**Embedded Systems:** STM32, UART, SPI, I2C, CAN, RTOS 
+**Embedded Systems:** STM32, UART, SPI, I²C, CAN, RTOS
 
 **Digital Design:** FPGA, VHDL
 
-**Electronics & Design:** KiCad, PCB Design, PSpice, SolidWorks
+**Electronics & Hardware Design:** KiCad, PCB Design, PSpice, SolidWorks
 
 **Other Tools:** Scilab, LaTeX, Affinity Designer
 
 ## Featured Projects
 
-### Event-Based Camera – Detection Accuracy Improvement (Ongoing Project) 
-Sensor calibration, event data acquisition, noise filtering and detection accuracy evaluation.
+### Event-Based Camera — Detection Accuracy Improvement
+*Ongoing engineering project*
 
-### STM32-Based Control Unit
-Microcontroller-based hardware architecture, PCB design and hardware/software integration.
+Development and evaluation of an event-based vision system, focusing on sensor calibration, event acquisition, noise filtering, and detection accuracy.
 
-### Robotic Finger Control System
-Design and implementation of a robotic finger controlled by human finger movements.
+### [STM32-Based Control Unit](https://github.com/salmaajdak/STM32-Control-Unit)
+
+Design of an STM32-based electronic control unit, including PCB development, hardware architecture, and embedded system integration.
+
+### [Robotic Finger Control System](https://github.com/salmaajdak/Robotic-Finger-Control-System)
+
+Design and fabrication of a robotic finger prototype controlled by human movements, with Arduino-based control and digital low-pass filtering to reduce unwanted oscillations.
 
 ## Languages
 
@@ -38,4 +42,3 @@ French | English | Arabic
 ## Contact
 
 **Email:** salma.ajdakar@gmail.com
-
