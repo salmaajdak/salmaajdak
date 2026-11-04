@@ -31,8 +31,8 @@ Microcontroller-based hardware architecture, PCB design and hardware/software in
 ### Java Object-Oriented Game
 A three-level chase game developed using object-oriented programming principles.
 
-### Human-Motion-Controlled Robotic Hand
-Design and implementation of a robotic hand controlled by human hand movements.
+### Robotic Finger Control System
+Design and implementation of a robotic finger controlled by human finger movements.
 
 ## Languages
 
