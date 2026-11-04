@@ -28,9 +28,6 @@ Sensor calibration, event data acquisition, noise filtering and detection accura
 ### STM32-Based Control Unit
 Microcontroller-based hardware architecture, PCB design and hardware/software integration.
 
-### Java Object-Oriented Game
-A three-level chase game developed using object-oriented programming principles.
-
 ### Robotic Finger Control System
 Design and implementation of a robotic finger controlled by human finger movements.
 
