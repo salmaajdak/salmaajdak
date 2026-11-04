@@ -35,6 +35,16 @@ Design of an STM32-based electronic control unit, including PCB development, har
 
 Design and fabrication of a robotic finger prototype controlled by human movements, with Arduino-based control and digital low-pass filtering to reduce unwanted oscillations.
 
+## Professional Experience
+
+### Technical Support & Design Intern — DSTEI
+**June – July 2026 | France**
+
+- Designed technical documentation and laboratory signage using Affinity Designer.
+- Contributed to laboratory organization and equipment identification.
+- Participated in 3D printing and prototyping activities within the FabLab.
+- Collaborated with a technical team to improve laboratory workspace organization and accessibility.
+
 ## Languages
 
 French | English | Arabic
