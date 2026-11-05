@@ -4,9 +4,7 @@
 
 
 
-
-
-# Hi, I'm Salma 👋
+## About Me
 
 ### Engineering Student at ENSEA | Signal Processing & Computer Science
 
