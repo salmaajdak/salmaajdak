@@ -1,7 +1,12 @@
 <p align="center">
-  <img src="github-banner.png" alt="Salma Ajdakar - Engineering Portfolio" width="100%">
+  <img src="b%20Portfolio%20Banner.png" alt="Salma Ajdakar - Engineering Portfolio" width="100%">
 </p>
-# Hi, I'm Salma Ajdakar 👋
+
+
+
+
+
+# Hi, I'm Salma 👋
 
 ### Engineering Student at ENSEA | Signal Processing & Computer Science
 
