@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="b%20Portfolio%20Banner.png" alt="Salma Ajdakar - Engineering Portfolio" width="100%">
-</p>
-
-
 
 ## About Me
 
