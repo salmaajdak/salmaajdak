@@ -6,8 +6,6 @@
 
 ## About Me
 
-### Engineering Student at ENSEA | Signal Processing & Computer Science
-
 I'm a second-year engineering student at **ENSEA (École Nationale Supérieure de l'Électronique et de ses Applications)** in France, specializing in **Signal Processing and Computer Science**.
 
 I'm interested in **embedded systems, digital electronics, signal processing, and artificial intelligence**, particularly projects combining hardware design, programming, and intelligent systems.
